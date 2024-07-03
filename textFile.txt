@@ -1,3 +1,6 @@
 This changed now w and i have to add and commit at once
 
-1. this is new  to test ammend
+1. this is new  to test amend
+
+-----1st - Brach------
+This data all in 1st branch only
