@@ -1,6 +1,8 @@
 Git Study
 
 1.A
-
 2.B
+
+revert happen
+
 
